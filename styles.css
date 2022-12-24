@@ -52,7 +52,7 @@ form input{
 
 form input:focus{
   padding: 0 14px;
-  border: 2px solid rgb(35, 104, 32)e;
+  border: 2px solid rgb(35, 104, 32);
 }
 
 form .drop-list{
@@ -86,4 +86,17 @@ form .drop-list{
   cursor: pointer;
   font-size: 22px;
   margin-top: 30px;
+}
+
+.form .exchange-rate{
+  font-size: 17px;
+  margin: 20px 0 30px;
+}
+
+form button{
+  height: 52px;
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+  background: rgb(35, 104, 32);
 }
