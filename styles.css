@@ -81,3 +81,9 @@ form .drop-list{
 .select-box img{
   max-width: 25px;
 }
+
+.drop-list .icon{
+  cursor: pointer;
+  font-size: 22px;
+  margin-top: 30px;
+}
