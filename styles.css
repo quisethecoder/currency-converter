@@ -13,3 +13,10 @@ body{
     min-height: 100vh;
     background: rgb(35, 104, 32);
 }
+
+.wrapper{
+  width: 370px;
+  padding: 30px;  
+  border-radius: 7px;
+  background: wheat;
+}
