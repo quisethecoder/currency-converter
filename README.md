@@ -1,4 +1,4 @@
-# currency-converter
+# Currency Converter
 
 Summary: With the Currency Converter, a user can enter an amount to convert the currency to a different country's currency. They can also easily exchange or reverse the two countries' currencies by clicking on the exchange icon.
 
